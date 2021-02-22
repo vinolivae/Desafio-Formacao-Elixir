@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\CSharp\\TesteTecnico\\TesteTecnico.csproj",
+      "projectUniqueName": "D:\\Dev\\CSharp\\TesteTecnico\\TesteTecnico.csproj",
       "projectName": "TesteTecnico",
-      "projectPath": "D:\\dev\\CSharp\\TesteTecnico\\TesteTecnico.csproj",
+      "projectPath": "D:\\Dev\\CSharp\\TesteTecnico\\TesteTecnico.csproj",
       "packagesPath": "C:\\Users\\vinil\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\CSharp\\TesteTecnico\\obj\\",
+      "outputPath": "D:\\Dev\\CSharp\\TesteTecnico\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

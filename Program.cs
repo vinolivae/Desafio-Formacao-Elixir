@@ -32,11 +32,12 @@ namespace TesteTecnico
             }
         }
         public static Dictionary<string, int> CalculateCart(List<Item> itens, List<string> emails)
-        {
+        { 
             if (emails.Count < 1)
             {
                 throw new DivideByZeroException("'emailList' cannot be empty. Provide at least one e-mail for it to work.");
             }
+
             int totalSum = 0;
 
             itens.ForEach(item => totalSum += item.Amount * item.Price);
@@ -63,8 +64,8 @@ namespace TesteTecnico
     }
     class Item
     {
-        public int Amount { get; set; }
-        public int Price { get; set; }
+        public int Amount { get; private set; }
+        public int Price { get; private set; }
         public Item(int amount, int price)
         {
             this.Amount = amount;
