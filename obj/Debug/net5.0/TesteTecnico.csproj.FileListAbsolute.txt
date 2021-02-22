@@ -1,0 +1,16 @@
+D:\Dev\CSharp\TesteTecnico\bin\Debug\net5.0\TesteTecnico.exe
+D:\Dev\CSharp\TesteTecnico\bin\Debug\net5.0\TesteTecnico.deps.json
+D:\Dev\CSharp\TesteTecnico\bin\Debug\net5.0\TesteTecnico.runtimeconfig.json
+D:\Dev\CSharp\TesteTecnico\bin\Debug\net5.0\TesteTecnico.runtimeconfig.dev.json
+D:\Dev\CSharp\TesteTecnico\bin\Debug\net5.0\TesteTecnico.dll
+D:\Dev\CSharp\TesteTecnico\bin\Debug\net5.0\ref\TesteTecnico.dll
+D:\Dev\CSharp\TesteTecnico\bin\Debug\net5.0\TesteTecnico.pdb
+D:\Dev\CSharp\TesteTecnico\obj\Debug\net5.0\TesteTecnico.csprojAssemblyReference.cache
+D:\Dev\CSharp\TesteTecnico\obj\Debug\net5.0\TesteTecnico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\CSharp\TesteTecnico\obj\Debug\net5.0\TesteTecnico.AssemblyInfoInputs.cache
+D:\Dev\CSharp\TesteTecnico\obj\Debug\net5.0\TesteTecnico.AssemblyInfo.cs
+D:\Dev\CSharp\TesteTecnico\obj\Debug\net5.0\TesteTecnico.csproj.CoreCompileInputs.cache
+D:\Dev\CSharp\TesteTecnico\obj\Debug\net5.0\TesteTecnico.dll
+D:\Dev\CSharp\TesteTecnico\obj\Debug\net5.0\ref\TesteTecnico.dll
+D:\Dev\CSharp\TesteTecnico\obj\Debug\net5.0\TesteTecnico.pdb
+D:\Dev\CSharp\TesteTecnico\obj\Debug\net5.0\TesteTecnico.genruntimeconfig.cache
